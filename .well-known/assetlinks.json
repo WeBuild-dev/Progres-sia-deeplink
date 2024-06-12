@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "webuild.dev.siaapp",
+      "sha256_cert_fingerprints": [
+        "0D:49:44:11:92:E4:C5:EA:9E:C6:D4:2C:DB:90:F0:20:E4:08:78:51:A7:EA:A9:32:4F:62:5F:2E:06:52:2E:F8"
+      ]
+    }
+  }
+]
