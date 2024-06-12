@@ -14,7 +14,7 @@ h1 {
     font-size: 2em;
 }
 
-main {
+#main {
     padding: 20px;
     flex: 1;
 }
@@ -38,7 +38,7 @@ img {
     margin: 10px;
 }
 
-footer {
+#footer {
     background-color: #f0f0f0;
     padding: 10px;
     text-align: center;
